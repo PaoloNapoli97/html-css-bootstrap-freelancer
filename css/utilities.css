@@ -133,5 +133,14 @@
 .ms-form-details{
     color: currentColor;
     border-bottom: 1px solid black;
+}
 
+.ms-social-button{
+    display: inline-block;
+    border-radius: 50%;
+    border: 1px solid currentColor;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
 }
